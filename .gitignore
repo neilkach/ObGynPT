@@ -1,0 +1,9 @@
+.env
+chroma-collections.parquet
+chroma-embeddings.parquet
+log.txt
+Adverse_Birth_Outcomes_Among_Nulliparous_vs._Multiparous_Women.pdf
+Preeclampsia_and_the_challenge_of_early_prediction_reality_or_utopia_State_of_art_and_critical_review_of_literature.pdf
+__pycache__/
+index/
+.DS_Store
